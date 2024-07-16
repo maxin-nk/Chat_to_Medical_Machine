@@ -1,0 +1,2 @@
+# Chat_to_Medical_Machine
+基于深度知识图谱和预训练大语言模型的医疗问答系统
