@@ -1,7 +1,7 @@
 # Chat_to_Medical_Machine
 基于深度知识图谱和预训练大语言模型的医疗问答系统
 
-1.pretrained_bert_chinese文件夹下载地址：
+1.pretrained_bert_chinese文件夹下载地址：https://pan.quark.cn/s/7418340868fb
 
 2.data/merge_sgns_bigram_char300.txt下载地址：https://pan.quark.cn/s/f0d0e94476f6
 
